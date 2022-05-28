@@ -1,3 +1,5 @@
 # Beer_Reviews_Dashboard_Vis
 
-Find it online at beer-reviews.ble.dev
+Click [here](beer-reviews.ble.dev) to view the app online. 
+
+
